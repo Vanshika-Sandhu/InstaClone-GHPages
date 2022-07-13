@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/InstaClone-GHPages/static/css/main.ecc15540.chunk.css",
+    "main.js": "/InstaClone-GHPages/static/js/main.619b6cfe.chunk.js",
+    "main.js.map": "/InstaClone-GHPages/static/js/main.619b6cfe.chunk.js.map",
+    "runtime-main.js": "/InstaClone-GHPages/static/js/runtime-main.435e9955.js",
+    "runtime-main.js.map": "/InstaClone-GHPages/static/js/runtime-main.435e9955.js.map",
+    "static/js/2.9302e547.chunk.js": "/InstaClone-GHPages/static/js/2.9302e547.chunk.js",
+    "static/js/2.9302e547.chunk.js.map": "/InstaClone-GHPages/static/js/2.9302e547.chunk.js.map",
+    "index.html": "/InstaClone-GHPages/index.html",
+    "static/css/main.ecc15540.chunk.css.map": "/InstaClone-GHPages/static/css/main.ecc15540.chunk.css.map",
+    "static/js/2.9302e547.chunk.js.LICENSE.txt": "/InstaClone-GHPages/static/js/2.9302e547.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.435e9955.js",
+    "static/js/2.9302e547.chunk.js",
+    "static/css/main.ecc15540.chunk.css",
+    "static/js/main.619b6cfe.chunk.js"
+  ]
+}
